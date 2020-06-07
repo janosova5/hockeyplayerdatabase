@@ -1,0 +1,126 @@
+﻿<Window x:Class="HockeyPlayerDatabase.MainApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HockeyPlayerDatabase.MainApp"
+        mc:Ignorable="d"
+        Title="Hockey Player Database" Height="350" Width="525" Background="White" HorizontalAlignment="Left">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20*"/>
+            <RowDefinition Height="30*"/>
+            <RowDefinition Height="50*"/>
+            <RowDefinition Height="160*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="90*"/>
+            <ColumnDefinition Width="90*"/>
+            <ColumnDefinition Width="90*"/>
+            <ColumnDefinition Width="90*"/>
+            <ColumnDefinition Width="25*"/>
+            <ColumnDefinition Width="90*"/>
+            <ColumnDefinition Width="90*"/>
+            <ColumnDefinition Width="90*"/>
+            <ColumnDefinition Width="90*"/>
+        </Grid.ColumnDefinitions>
+        <Grid Grid.Row="0" Background="WhiteSmoke" Grid.ColumnSpan="11">
+            <DockPanel>
+                <Button Name ="MenuBtn" Width="50" Content="File" HorizontalAlignment="Left" HorizontalContentAlignment="Left" Background="WhiteSmoke" BorderBrush="WhiteSmoke" Click="MenuBtnClicked">
+                    <Button.ContextMenu>
+                        <ContextMenu>
+                            <MenuItem Header="Export DB to XML..." Click="SaveToXmlClicked"/>
+                            <Separator />
+                            <MenuItem Header="Exit" Click="CloseWindowClicked"/>
+                        </ContextMenu>
+                    </Button.ContextMenu>
+                </Button>
+            </DockPanel>
+        </Grid>
+        <Grid Grid.Row="1" Grid.RowSpan="2" Grid.ColumnSpan="9" Grid.Column="0">
+            <GroupBox Header="Filter"/>
+        </Grid>
+        <Grid Grid.Row="1" Grid.Column="0">
+            <Label Margin="5,0,-15,-15" VerticalAlignment="Center">KRP:</Label> 
+        </Grid>
+        <Grid Grid.Row="2" Grid.Column="0">
+            <TextBox VerticalAlignment="Top" Margin="5, 0, 0,0" TextChanged="KrpWasTyped"></TextBox>
+        </Grid>
+        <Grid Grid.Row="1" Grid.Column="1">
+            <Label Margin="0,0,-15,-15" VerticalAlignment="Center" HorizontalAlignment="Left" >First Name:</Label>
+        </Grid>
+        <Grid Grid.Row="2" Grid.Column="1">
+            <TextBox VerticalAlignment="Top" Margin="5,0,0,0" TextChanged="FirstNameWasTyped"></TextBox>
+        </Grid>
+        <Grid Grid.Row="1" Grid.Column="2">
+            <Label Margin="0,0,-15,-15" VerticalAlignment="Center" HorizontalAlignment="Left" >Last Name:</Label>
+        </Grid>
+        <Grid Grid.Row="2" Grid.Column="2">
+            <TextBox VerticalAlignment="Top" Margin="5,0,0,0" TextChanged="LastNameWasTyped"></TextBox>
+        </Grid>
+        <Grid Grid.Row="1"  Grid.Column ="3" Grid.ColumnSpan="3">
+            <Label Margin="0,0,-15,-15" VerticalAlignment="Center" HorizontalAlignment="Center">Year of birth (from - to):</Label>
+        </Grid>
+        <Grid Grid.Row="2" Grid.Column="3">
+            <TextBox VerticalAlignment="Top" Margin="5,0,0,0" TextChanged="YearFromWasTyped"></TextBox>
+        </Grid>
+        <Grid Grid.Row="2" Grid.Column="4">
+            <Label HorizontalAlignment="Center"> - </Label>
+        </Grid>
+        <Grid Grid.Row="2" Grid.Column="5">
+            <TextBox VerticalAlignment="Top" Margin="0,0,5,0" TextChanged="YearToWasTyped"></TextBox>
+        </Grid>
+        <Grid Grid.Row="1"  Grid.Column ="6" Grid.ColumnSpan="2">
+            <Label Margin="0,0,0,-15" VerticalAlignment="Center" HorizontalAlignment="Center">Age category:</Label>
+        </Grid>
+        <Grid Grid.Row="2" Grid.Column="6">
+            <StackPanel Orientation="Vertical">
+                <CheckBox Click="CadetWasClicked"> Cadet </CheckBox>
+                <CheckBox Click="JuniorWasClicked"> Junior </CheckBox>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="2" Grid.Column="7">
+            <StackPanel Orientation="Vertical">
+                <CheckBox Click="MidgestWasClicked">Midgest</CheckBox>
+                <CheckBox Click="SeniorWasClicked">Senior</CheckBox>
+            </StackPanel>
+        </Grid>
+        <Grid Grid.Row="1" Grid.Column="8">
+            <Label Margin="0,0,-15,-15" VerticalAlignment="Center" HorizontalAlignment="Left" >Club:</Label>
+        </Grid>
+        <Grid Grid.Row="2" Grid.Column="8">
+            <TextBox VerticalAlignment="Top" Margin="5,0,5,0" TextChanged="ClubNameWasTyped"></TextBox>
+        </Grid>
+        <Grid Grid.Row="2" Grid.Column="0" Grid.ColumnSpan="9">
+            <Button Content="Apply" Margin="5,35,5,10" Click="ApplyFilterClicked"></Button>
+        </Grid>
+        <Grid Grid.Row="3" Grid.Column="0" Grid.ColumnSpan="7">
+            <StackPanel Orientation="Horizontal" Margin="5, -2">
+                <TextBlock Text="Filtered items: "/>
+                <TextBlock Name ="NumberOfFilteredPlayers" Text="{Binding Path= Count}"/>
+                <TextBlock Text=" / "/>
+                <TextBlock Name ="NumberOfAllPlayers" Text="{Binding Path= Count}"/>
+            </StackPanel>
+            
+            <DataGrid Name="PlayersData" Margin="5,15,5,10"  AutoGenerateColumns="False" SelectionChanged="PlayerWasSelected">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="KRP" Binding="{Binding Path=KrpId}"/>
+                    <DataGridTextColumn Header="First Name" Binding="{Binding Path=FirstName}"/>
+                    <DataGridTextColumn Header="Last Name" Binding="{Binding Path=LastName}"/>
+                    <DataGridTextColumn Header="Year of birth" Binding="{Binding Path=YearOfBirth}"/>
+                    <DataGridTextColumn Header="Age Category" Binding="{Binding Path=AgeCategory}"/>
+                    <DataGridTextColumn Header="Club" Binding="{Binding Path=ClubName}"/>
+                </DataGrid.Columns>
+            </DataGrid>
+        </Grid>
+        <Grid Grid.Row="3" Grid.Column="7" Grid.ColumnSpan="2">
+            <StackPanel Orientation="Vertical" Margin="10, 15">
+                <Button Content="Add..." Click="AddNewPlayerClicked"></Button>
+                <Button Name ="Remove"  Content="Remove" Margin="0, 10" Click="RemovePlayerClicked"></Button>
+                <Button Name = "Edit" Content="Edit..." Click="EditPlayerClicked"> </Button>
+                <Button Name = "Url" Content="Open Club Url..." Margin="0, 25" Click="OpenClubUrlClicked"></Button>
+            </StackPanel>
+        </Grid>
+    </Grid>
+
+</Window>

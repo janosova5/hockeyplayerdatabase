@@ -1,0 +1,4373 @@
+<?xml version="1.0"?>
+<Club xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1</Id>
+  <Name>MsHK Žilina, a.s.</Name>
+  <Address>Športová 5, 010 01 Žilina, SVK</Address>
+  <Url />
+</Club><?xml version="1.0"?>
+<Club xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2</Id>
+  <Name>HK DUKLA Trenčín, a.s.</Name>
+  <Address>Považská 34, 911 01 Trenčín, SVK</Address>
+  <Url>www.hkdukla.sk</Url>
+</Club><?xml version="1.0"?>
+<Club xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>3</Id>
+  <Name>HC Košice s.r.o.</Name>
+  <Address>Nerudova 12, 04001 Košice - Juh, SVK</Address>
+  <Url>www.hckosice.sk</Url>
+</Club><?xml version="1.0"?>
+<Club xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>4</Id>
+  <Name>HC SLOVAN Bratislava, a.s.</Name>
+  <Address>Odbojárov 9, 83104 Bratislava - Nové Mesto, SVK</Address>
+  <Url>www.hcslovan.sk</Url>
+</Club><?xml version="1.0"?>
+<Club xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>5</Id>
+  <Name>MHK Dubnica nad Váhom</Name>
+  <Address>Športovcov 1, 01841 Dubnica nad Váhom, SVK</Address>
+  <Url />
+</Club><?xml version="1.0"?>
+<Club xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>6</Id>
+  <Name>HKM a.s. Zvolen</Name>
+  <Address>Pod Dráhami 2292/21, 960 01 Zvolen, SVK</Address>
+  <Url>www.hkmzvolen.sk</Url>
+</Club><?xml version="1.0"?>
+<Club xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>7</Id>
+  <Name>MHC Martin, a.s.</Name>
+  <Address>Gorkého 2, 03601 Martin, SVK</Address>
+  <Url>www.mhcmartin.sk</Url>
+</Club><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>1</Id>
+  <FirstName>Kristián</FirstName>
+  <LastName>Adamko</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>24279</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>2</Id>
+  <FirstName>Denis</FirstName>
+  <LastName>Anderko</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>26045</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>3</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Bača</LastName>
+  <TitleBefore />
+  <YearOfBirth>1989</YearOfBirth>
+  <KrpId>14537</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>4</Id>
+  <FirstName>Ján</FirstName>
+  <LastName>Bajtoš</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>22926</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>5</Id>
+  <FirstName>Jakub</FirstName>
+  <LastName>Balogáč</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>31198</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>6</Id>
+  <FirstName>Patrik</FirstName>
+  <LastName>Barger</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>24623</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>7</Id>
+  <FirstName>Jiří</FirstName>
+  <LastName>Bicek</LastName>
+  <TitleBefore />
+  <YearOfBirth>1978</YearOfBirth>
+  <KrpId>1111</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>8</Id>
+  <FirstName>Peter</FirstName>
+  <LastName>Boltun</LastName>
+  <TitleBefore />
+  <YearOfBirth>1993</YearOfBirth>
+  <KrpId>18116</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>9</Id>
+  <FirstName>Radovan</FirstName>
+  <LastName>Bondra</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>20975</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>10</Id>
+  <FirstName>Ivan</FirstName>
+  <LastName>Čavara</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>24222</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>11</Id>
+  <FirstName>Erik</FirstName>
+  <LastName>Černák</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>20703</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>12</Id>
+  <FirstName>Jakub</FirstName>
+  <LastName>Cibák</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>22938</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>13</Id>
+  <FirstName>Václav</FirstName>
+  <LastName>Čížek</LastName>
+  <TitleBefore />
+  <YearOfBirth>1989</YearOfBirth>
+  <KrpId>30792</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>14</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Dudáš</LastName>
+  <TitleBefore />
+  <YearOfBirth>1987</YearOfBirth>
+  <KrpId>21568</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>15</Id>
+  <FirstName>Juraj</FirstName>
+  <LastName>Eliaš</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>27433</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>16</Id>
+  <FirstName>Peter</FirstName>
+  <LastName>Eliáš</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>24210</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>17</Id>
+  <FirstName>Richard</FirstName>
+  <LastName>Faith</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>22935</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>18</Id>
+  <FirstName>Dominik</FirstName>
+  <LastName>Fedor</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>26056</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>19</Id>
+  <FirstName>Jakub</FirstName>
+  <LastName>Fic</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>24150</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>20</Id>
+  <FirstName>Erik</FirstName>
+  <LastName>Gábriel</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>22934</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>21</Id>
+  <FirstName>Adrián</FirstName>
+  <LastName>Gajdoš</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>24223</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>22</Id>
+  <FirstName>Adam Peter</FirstName>
+  <LastName>Garaj</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>24209</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>23</Id>
+  <FirstName>Filip</FirstName>
+  <LastName>Giba</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>21779</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>24</Id>
+  <FirstName>Oliver</FirstName>
+  <LastName>Glitta</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>22933</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>25</Id>
+  <FirstName>Christián</FirstName>
+  <LastName>Gučik</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>24625</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>26</Id>
+  <FirstName>Vladislav</FirstName>
+  <LastName>Habal</LastName>
+  <TitleBefore />
+  <YearOfBirth>1991</YearOfBirth>
+  <KrpId>33087</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>27</Id>
+  <FirstName>Ervín</FirstName>
+  <LastName>Halász</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>20706</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>28</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Halász</LastName>
+  <TitleBefore />
+  <YearOfBirth>1990</YearOfBirth>
+  <KrpId>15713</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>29</Id>
+  <FirstName>Marcel</FirstName>
+  <LastName>Haščák</LastName>
+  <TitleBefore />
+  <YearOfBirth>1987</YearOfBirth>
+  <KrpId>10978</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>30</Id>
+  <FirstName>Juraj</FirstName>
+  <LastName>Heske</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>20700</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>31</Id>
+  <FirstName>Patrick</FirstName>
+  <LastName>Hogel</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>29898</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>32</Id>
+  <FirstName>Matúš</FirstName>
+  <LastName>Horváth</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>24205</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>33</Id>
+  <FirstName>Marek</FirstName>
+  <LastName>Hovorka</LastName>
+  <TitleBefore />
+  <YearOfBirth>1984</YearOfBirth>
+  <KrpId>5858</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>34</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Hričina</LastName>
+  <TitleBefore />
+  <YearOfBirth>1990</YearOfBirth>
+  <KrpId>15349</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>35</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Hrnka</LastName>
+  <TitleBefore />
+  <YearOfBirth>1991</YearOfBirth>
+  <KrpId>17907</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>36</Id>
+  <FirstName>Július</FirstName>
+  <LastName>Hudáček</LastName>
+  <TitleBefore />
+  <YearOfBirth>1988</YearOfBirth>
+  <KrpId>8929</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>37</Id>
+  <FirstName>Filip</FirstName>
+  <LastName>Hudák</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>21783</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>38</Id>
+  <FirstName>Jakub</FirstName>
+  <LastName>Jadrníček</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>26049</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>39</Id>
+  <FirstName>Simon</FirstName>
+  <LastName>Jakub</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>25820</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>40</Id>
+  <FirstName>Dominik</FirstName>
+  <LastName>Janičkár</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>24627</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>41</Id>
+  <FirstName>Ivan</FirstName>
+  <LastName>Jankovič</LastName>
+  <TitleBefore />
+  <YearOfBirth>1990</YearOfBirth>
+  <KrpId>13344</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>42</Id>
+  <FirstName>Christián</FirstName>
+  <LastName>Jaroš</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>19726</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>43</Id>
+  <FirstName>Richard</FirstName>
+  <LastName>Jenčík</LastName>
+  <TitleBefore />
+  <YearOfBirth>1985</YearOfBirth>
+  <KrpId>7884</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>44</Id>
+  <FirstName>Adam</FirstName>
+  <LastName>Jobbágy</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>26046</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>45</Id>
+  <FirstName>Viktor</FirstName>
+  <LastName>Juraško</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>25076</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>46</Id>
+  <FirstName>Petr</FirstName>
+  <LastName>Kafka</LastName>
+  <TitleBefore />
+  <YearOfBirth>1989</YearOfBirth>
+  <KrpId>29052</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>47</Id>
+  <FirstName>Blake Henry</FirstName>
+  <LastName>Kessel</LastName>
+  <TitleBefore />
+  <YearOfBirth>1989</YearOfBirth>
+  <KrpId>36745</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>48</Id>
+  <FirstName>Andrej</FirstName>
+  <LastName>Kiss</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>25818</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>49</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Klíma</LastName>
+  <TitleBefore />
+  <YearOfBirth>1990</YearOfBirth>
+  <KrpId>12858</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>50</Id>
+  <FirstName>Dušan</FirstName>
+  <LastName>Kmec</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>21795</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>51</Id>
+  <FirstName>Patrik</FirstName>
+  <LastName>Koch</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>31681</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>52</Id>
+  <FirstName>Patrik</FirstName>
+  <LastName>Kolesár</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>20695</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>53</Id>
+  <FirstName>Jakub</FirstName>
+  <LastName>Köver</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>22943</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>54</Id>
+  <FirstName>Patrik</FirstName>
+  <LastName>Koyš</LastName>
+  <TitleBefore />
+  <YearOfBirth>1995</YearOfBirth>
+  <KrpId>19337</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>55</Id>
+  <FirstName>Tristan</FirstName>
+  <LastName>Kozma</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>24206</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>56</Id>
+  <FirstName>Jakub</FirstName>
+  <LastName>Lovaš</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>24224</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>57</Id>
+  <FirstName>Michal</FirstName>
+  <LastName>Lukáč</LastName>
+  <TitleBefore />
+  <YearOfBirth>1984</YearOfBirth>
+  <KrpId>6308</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>58</Id>
+  <FirstName>Ondrej</FirstName>
+  <LastName>Lukáčik</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>24648</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>59</Id>
+  <FirstName>Joakim</FirstName>
+  <LastName>Lundström</LastName>
+  <TitleBefore />
+  <YearOfBirth>1984</YearOfBirth>
+  <KrpId>33613</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>60</Id>
+  <FirstName>Samuel</FirstName>
+  <LastName>Macejko</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>24208</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>61</Id>
+  <FirstName>Jakub</FirstName>
+  <LastName>Mackaľ</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>21770</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>62</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Maligda</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>21751</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>63</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Marcinko</LastName>
+  <TitleBefore />
+  <YearOfBirth>1988</YearOfBirth>
+  <KrpId>11981</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>64</Id>
+  <FirstName>Adam</FirstName>
+  <LastName>Markuš</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>24219</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>65</Id>
+  <FirstName>Adam</FirstName>
+  <LastName>Matej</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>24207</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>66</Id>
+  <FirstName>Lukáš</FirstName>
+  <LastName>Matejka</LastName>
+  <TitleBefore />
+  <YearOfBirth>1990</YearOfBirth>
+  <KrpId>15217</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>67</Id>
+  <FirstName>Dominik</FirstName>
+  <LastName>Matoňák</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>26053</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>68</Id>
+  <FirstName>Dominik Ján</FirstName>
+  <LastName>Mecko</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>22946</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>69</Id>
+  <FirstName>Marcel</FirstName>
+  <LastName>Melicherčík</LastName>
+  <TitleBefore />
+  <YearOfBirth>1986</YearOfBirth>
+  <KrpId>10975</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>70</Id>
+  <FirstName>Christián</FirstName>
+  <LastName>Michalčin</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>19795</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>71</Id>
+  <FirstName>Milan</FirstName>
+  <LastName>Mičko</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>24631</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>72</Id>
+  <FirstName>Dalibor</FirstName>
+  <LastName>Mikula</LastName>
+  <TitleBefore />
+  <YearOfBirth>1995</YearOfBirth>
+  <KrpId>19554</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>73</Id>
+  <FirstName>Ján</FirstName>
+  <LastName>Munka</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>24233</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>74</Id>
+  <FirstName>Ladislav</FirstName>
+  <LastName>Nagy</LastName>
+  <TitleBefore />
+  <YearOfBirth>1979</YearOfBirth>
+  <KrpId>59</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>75</Id>
+  <FirstName>Samuel</FirstName>
+  <LastName>Nagy</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>27429</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>76</Id>
+  <FirstName>Miroslav</FirstName>
+  <LastName>Novota</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>26055</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>77</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Novotný</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>19727</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>78</Id>
+  <FirstName>Róbert</FirstName>
+  <LastName>Orság</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>21752</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>79</Id>
+  <FirstName>David</FirstName>
+  <LastName>Pacan</LastName>
+  <TitleBefore />
+  <YearOfBirth>1991</YearOfBirth>
+  <KrpId>36742</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>80</Id>
+  <FirstName>Adrián</FirstName>
+  <LastName>Palacko</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>24230</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>81</Id>
+  <FirstName>Matej</FirstName>
+  <LastName>Pálfy</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>24642</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>82</Id>
+  <FirstName>Ľubomír</FirstName>
+  <LastName>Patlevič</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>24116</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>83</Id>
+  <FirstName>Samuel</FirstName>
+  <LastName>Pavlík</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>24235</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>84</Id>
+  <FirstName>Branislav</FirstName>
+  <LastName>Pavúk</LastName>
+  <TitleBefore />
+  <YearOfBirth>1995</YearOfBirth>
+  <KrpId>18537</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>85</Id>
+  <FirstName>Šimon</FirstName>
+  <LastName>Petráš</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>21379</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>86</Id>
+  <FirstName>Matej</FirstName>
+  <LastName>Porkoláb</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>22949</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>87</Id>
+  <FirstName>Jere</FirstName>
+  <LastName>Pulli</LastName>
+  <TitleBefore />
+  <YearOfBirth>1991</YearOfBirth>
+  <KrpId>33387</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>88</Id>
+  <FirstName>Dominik</FirstName>
+  <LastName>Riečický</LastName>
+  <TitleBefore />
+  <YearOfBirth>1992</YearOfBirth>
+  <KrpId>16897</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>89</Id>
+  <FirstName>Ondrej</FirstName>
+  <LastName>Rusnák</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>25948</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>90</Id>
+  <FirstName>Filip</FirstName>
+  <LastName>Rusňák</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>22951</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>91</Id>
+  <FirstName>Samuel</FirstName>
+  <LastName>Sárossy</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>24639</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>92</Id>
+  <FirstName>Eduard</FirstName>
+  <LastName>Šedivý</LastName>
+  <TitleBefore />
+  <YearOfBirth>1992</YearOfBirth>
+  <KrpId>17131</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>93</Id>
+  <FirstName>Dominik</FirstName>
+  <LastName>Šimčák</LastName>
+  <TitleBefore />
+  <YearOfBirth>1992</YearOfBirth>
+  <KrpId>16909</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>94</Id>
+  <FirstName>Samuel</FirstName>
+  <LastName>Sirotňák</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>24204</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>95</Id>
+  <FirstName>Stanislav</FirstName>
+  <LastName>Škorvánek</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>20531</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>96</Id>
+  <FirstName>Dávid</FirstName>
+  <LastName>Soľár</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>25817</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>97</Id>
+  <FirstName>Dávid</FirstName>
+  <LastName>Šoltés</LastName>
+  <TitleBefore />
+  <YearOfBirth>1995</YearOfBirth>
+  <KrpId>18518</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>98</Id>
+  <FirstName>Gabriel</FirstName>
+  <LastName>Spilár</LastName>
+  <TitleBefore />
+  <YearOfBirth>1980</YearOfBirth>
+  <KrpId>6699</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>99</Id>
+  <FirstName>Michal</FirstName>
+  <LastName>Štec</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>24635</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>100</Id>
+  <FirstName>Šimon</FirstName>
+  <LastName>Striž</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>21772</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>101</Id>
+  <FirstName>Jakub</FirstName>
+  <LastName>Študenc</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>21787</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>102</Id>
+  <FirstName>Jakub</FirstName>
+  <LastName>Suja</LastName>
+  <TitleBefore />
+  <YearOfBirth>1988</YearOfBirth>
+  <KrpId>14211</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>103</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Šumichrast</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>21801</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>104</Id>
+  <FirstName>Tibor</FirstName>
+  <LastName>Tamáš</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>21781</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>105</Id>
+  <FirstName>Kristián</FirstName>
+  <LastName>Uhrin</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>22954</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>106</Id>
+  <FirstName>Adam</FirstName>
+  <LastName>Vadász</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>27431</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>107</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Veteška</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>24637</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>108</Id>
+  <FirstName>Filip</FirstName>
+  <LastName>Vrábeľ</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>20708</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>109</Id>
+  <FirstName>Vojtech</FirstName>
+  <LastName>Zeleňák</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>21802</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>110</Id>
+  <FirstName>Róbert</FirstName>
+  <LastName>Zsiga</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>24622</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>3</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>111</Id>
+  <FirstName>Patrik</FirstName>
+  <LastName>Abaffy</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>25423</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>112</Id>
+  <FirstName>Juraj</FirstName>
+  <LastName>Adamovič</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>24589</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>113</Id>
+  <FirstName>Dominik</FirstName>
+  <LastName>Antala</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>25038</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>114</Id>
+  <FirstName>Michael</FirstName>
+  <LastName>Astaloš</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>24159</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>115</Id>
+  <FirstName>Patrik</FirstName>
+  <LastName>Bačik</LastName>
+  <TitleBefore />
+  <YearOfBirth>1995</YearOfBirth>
+  <KrpId>20326</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>116</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Bakoš</LastName>
+  <TitleBefore />
+  <YearOfBirth>1990</YearOfBirth>
+  <KrpId>15329</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>117</Id>
+  <FirstName>Jozef</FirstName>
+  <LastName>Balej</LastName>
+  <TitleBefore />
+  <YearOfBirth>1982</YearOfBirth>
+  <KrpId>2351</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>118</Id>
+  <FirstName>Ivan</FirstName>
+  <LastName>Baranka</LastName>
+  <TitleBefore />
+  <YearOfBirth>1985</YearOfBirth>
+  <KrpId>7845</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>119</Id>
+  <FirstName>Egor</FirstName>
+  <LastName>Baranov</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>30177</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>120</Id>
+  <FirstName>Cam</FirstName>
+  <LastName>Barker</LastName>
+  <TitleBefore />
+  <YearOfBirth>1986</YearOfBirth>
+  <KrpId>30968</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>121</Id>
+  <FirstName>Milan</FirstName>
+  <LastName>Bartovič</LastName>
+  <TitleBefore />
+  <YearOfBirth>1981</YearOfBirth>
+  <KrpId>5241</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>122</Id>
+  <FirstName>Andrej</FirstName>
+  <LastName>Bednarič</LastName>
+  <TitleBefore />
+  <YearOfBirth>1995</YearOfBirth>
+  <KrpId>21286</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>123</Id>
+  <FirstName>Andrej</FirstName>
+  <LastName>Benčat</LastName>
+  <TitleBefore />
+  <YearOfBirth>1995</YearOfBirth>
+  <KrpId>20392</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>124</Id>
+  <FirstName>Michal</FirstName>
+  <LastName>Beňo</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>25436</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>125</Id>
+  <FirstName>Mário</FirstName>
+  <LastName>Bližňák</LastName>
+  <TitleBefore />
+  <YearOfBirth>1987</YearOfBirth>
+  <KrpId>9054</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>126</Id>
+  <FirstName>Dávid</FirstName>
+  <LastName>Boldižár</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>22939</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>127</Id>
+  <FirstName>Zachary Preston Robert</FirstName>
+  <LastName>Boychuk</LastName>
+  <TitleBefore />
+  <YearOfBirth>1989</YearOfBirth>
+  <KrpId>37393</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>128</Id>
+  <FirstName>Branislav</FirstName>
+  <LastName>Brúder</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>25426</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>129</Id>
+  <FirstName>JAN</FirstName>
+  <LastName>Buchtele</LastName>
+  <TitleBefore />
+  <YearOfBirth>1990</YearOfBirth>
+  <KrpId>36777</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>130</Id>
+  <FirstName>Matúš</FirstName>
+  <LastName>Budiak</LastName>
+  <TitleBefore />
+  <YearOfBirth>1994</YearOfBirth>
+  <KrpId>19758</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>131</Id>
+  <FirstName>Michal</FirstName>
+  <LastName>Čajkovský</LastName>
+  <TitleBefore />
+  <YearOfBirth>1992</YearOfBirth>
+  <KrpId>17452</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>132</Id>
+  <FirstName>Miroslav</FirstName>
+  <LastName>Černák</LastName>
+  <TitleBefore />
+  <YearOfBirth>1994</YearOfBirth>
+  <KrpId>19760</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>133</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Černák</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>25615</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>134</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Černý</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>36776</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>135</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Červenka</LastName>
+  <TitleBefore />
+  <YearOfBirth>1993</YearOfBirth>
+  <KrpId>18588</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>136</Id>
+  <FirstName>Matvei</FirstName>
+  <LastName>Chekhov</LastName>
+  <TitleBefore />
+  <YearOfBirth>2003</YearOfBirth>
+  <KrpId>29879</KrpId>
+  <AgeCategory>Cadet</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>137</Id>
+  <FirstName>Marek</FirstName>
+  <LastName>Ďaloga</LastName>
+  <TitleBefore />
+  <YearOfBirth>1989</YearOfBirth>
+  <KrpId>13783</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>138</Id>
+  <FirstName>Simon</FirstName>
+  <LastName>Després-bellavance</LastName>
+  <TitleBefore />
+  <YearOfBirth>1991</YearOfBirth>
+  <KrpId>36910</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>139</Id>
+  <FirstName>Christopher</FirstName>
+  <LastName>Dinga</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>22365</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>140</Id>
+  <FirstName>Adam</FirstName>
+  <LastName>Divinský</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>23266</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>141</Id>
+  <FirstName>Daniil</FirstName>
+  <LastName>Dmitriev</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>29925</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>142</Id>
+  <FirstName>Róbert</FirstName>
+  <LastName>Dobrý</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>22455</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>143</Id>
+  <FirstName>Lukáš</FirstName>
+  <LastName>Drdan</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>24151</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>144</Id>
+  <FirstName>Kevin</FirstName>
+  <LastName>Dvonč</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>23272</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>145</Id>
+  <FirstName>Nicholas J.</FirstName>
+  <LastName>Ebert</LastName>
+  <TitleBefore />
+  <YearOfBirth>1994</YearOfBirth>
+  <KrpId>36778</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>146</Id>
+  <FirstName>Jozef</FirstName>
+  <LastName>Fabian</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>22606</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>147</Id>
+  <FirstName>Patrik</FirstName>
+  <LastName>Fabian</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>23560</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>148</Id>
+  <FirstName>Samuel</FirstName>
+  <LastName>Fereta</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>23239</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>149</Id>
+  <FirstName>Marek</FirstName>
+  <LastName>Fiala</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>24941</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>150</Id>
+  <FirstName>Alexander</FirstName>
+  <LastName>Ftáčnik</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>23558</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>151</Id>
+  <FirstName>Dominik</FirstName>
+  <LastName>Gabriel</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>23275</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>152</Id>
+  <FirstName>Peter</FirstName>
+  <LastName>Galis</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>21296</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>153</Id>
+  <FirstName>Robert Colby</FirstName>
+  <LastName>Genoway</LastName>
+  <TitleBefore />
+  <YearOfBirth>1983</YearOfBirth>
+  <KrpId>36836</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>154</Id>
+  <FirstName>Denis</FirstName>
+  <LastName>Godla</LastName>
+  <TitleBefore />
+  <YearOfBirth>1995</YearOfBirth>
+  <KrpId>19787</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>155</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Gula</LastName>
+  <TitleBefore />
+  <YearOfBirth>1995</YearOfBirth>
+  <KrpId>20323</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>156</Id>
+  <FirstName>Hugo</FirstName>
+  <LastName>Haas</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>36767</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>157</Id>
+  <FirstName>Lukáš</FirstName>
+  <LastName>Habala</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>25919</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>158</Id>
+  <FirstName>Leonard</FirstName>
+  <LastName>Habán</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>25439</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>159</Id>
+  <FirstName>Marco</FirstName>
+  <LastName>Halama</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>20273</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>160</Id>
+  <FirstName>Radovan</FirstName>
+  <LastName>Hanula</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>23211</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>161</Id>
+  <FirstName>Kevin</FirstName>
+  <LastName>Hatiar</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>22607</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>162</Id>
+  <FirstName>William</FirstName>
+  <LastName>Hauser</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>25418</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>163</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Hedera</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>22367</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>164</Id>
+  <FirstName>Michal</FirstName>
+  <LastName>Herák</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>22636</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>165</Id>
+  <FirstName>Samuel</FirstName>
+  <LastName>Houdek</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>25428</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>166</Id>
+  <FirstName>Patrik</FirstName>
+  <LastName>Hoza</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>23942</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>167</Id>
+  <FirstName>Libor</FirstName>
+  <LastName>Hudáček</LastName>
+  <TitleBefore />
+  <YearOfBirth>1990</YearOfBirth>
+  <KrpId>15336</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>168</Id>
+  <FirstName>Ladislav</FirstName>
+  <LastName>Ivanisko</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>22928</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>169</Id>
+  <FirstName>Filip</FirstName>
+  <LastName>Jakab</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>23440</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>170</Id>
+  <FirstName>Marián</FirstName>
+  <LastName>Jančár</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>24154</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>171</Id>
+  <FirstName>Jaroslav</FirstName>
+  <LastName>Janus</LastName>
+  <TitleBefore />
+  <YearOfBirth>1989</YearOfBirth>
+  <KrpId>15461</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>172</Id>
+  <FirstName>Niki</FirstName>
+  <LastName>Jaško</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>23274</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>173</Id>
+  <FirstName>Dominik</FirstName>
+  <LastName>Javorek</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>21282</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>174</Id>
+  <FirstName>Dominik</FirstName>
+  <LastName>Jendek</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>25219</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>175</Id>
+  <FirstName>Lukáš</FirstName>
+  <LastName>Kašpar</LastName>
+  <TitleBefore />
+  <YearOfBirth>1985</YearOfBirth>
+  <KrpId>31624</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>176</Id>
+  <FirstName>Nikita</FirstName>
+  <LastName>Khobotko</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>33127</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>177</Id>
+  <FirstName>Šimon</FirstName>
+  <LastName>Klimčík</LastName>
+  <TitleBefore />
+  <YearOfBirth>1993</YearOfBirth>
+  <KrpId>17654</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>178</Id>
+  <FirstName>Alex</FirstName>
+  <LastName>Kocúrek</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>25442</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>179</Id>
+  <FirstName>Peter</FirstName>
+  <LastName>Kollar</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>22625</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>180</Id>
+  <FirstName>Ctibor</FirstName>
+  <LastName>Kompánek</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>24967</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>181</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Kopecký</LastName>
+  <TitleBefore />
+  <YearOfBirth>1982</YearOfBirth>
+  <KrpId>5197</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>182</Id>
+  <FirstName>Adam</FirstName>
+  <LastName>Kormúth</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>34014</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>183</Id>
+  <FirstName>Marián</FirstName>
+  <LastName>Koza</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>30310</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>184</Id>
+  <FirstName>Ján</FirstName>
+  <LastName>Kožiak</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>23326</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>185</Id>
+  <FirstName>Samuel</FirstName>
+  <LastName>Koziot</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>22832</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>186</Id>
+  <FirstName>Filip</FirstName>
+  <LastName>Kozmann</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>24161</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>187</Id>
+  <FirstName>Stanislav</FirstName>
+  <LastName>Krajč</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>21303</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>188</Id>
+  <FirstName>Patrik</FirstName>
+  <LastName>Kratochvíla</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>21055</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>189</Id>
+  <FirstName>Nikita</FirstName>
+  <LastName>Krauze</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>29952</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>190</Id>
+  <FirstName>Roman</FirstName>
+  <LastName>Kukumberg</LastName>
+  <TitleBefore />
+  <YearOfBirth>1980</YearOfBirth>
+  <KrpId>4483</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>191</Id>
+  <FirstName>Filip</FirstName>
+  <LastName>Kundrát</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>20267</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>192</Id>
+  <FirstName>Alex František</FirstName>
+  <LastName>Kupka</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>24946</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>193</Id>
+  <FirstName>Peter</FirstName>
+  <LastName>Kuzmín</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>21299</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>194</Id>
+  <FirstName>Roman</FirstName>
+  <LastName>Ledenev</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>32966</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>195</Id>
+  <FirstName>Mihkail</FirstName>
+  <LastName>Lepskii</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>31602</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>196</Id>
+  <FirstName>Adam</FirstName>
+  <LastName>Liška</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>23472</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>197</Id>
+  <FirstName>Vladimír</FirstName>
+  <LastName>Lukáčik</LastName>
+  <TitleBefore />
+  <YearOfBirth>1993</YearOfBirth>
+  <KrpId>18590</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>198</Id>
+  <FirstName>Patrik</FirstName>
+  <LastName>Luža</LastName>
+  <TitleBefore />
+  <YearOfBirth>1994</YearOfBirth>
+  <KrpId>19744</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>199</Id>
+  <FirstName>Patrik</FirstName>
+  <LastName>Maier</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>22611</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>200</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Matuška</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>23579</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>201</Id>
+  <FirstName>Marek</FirstName>
+  <LastName>Mazanec</LastName>
+  <TitleBefore />
+  <YearOfBirth>1991</YearOfBirth>
+  <KrpId>36812</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>202</Id>
+  <FirstName>Andrej</FirstName>
+  <LastName>Meszároš</LastName>
+  <TitleBefore />
+  <YearOfBirth>1985</YearOfBirth>
+  <KrpId>6072</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>203</Id>
+  <FirstName>Mikuláš</FirstName>
+  <LastName>Mihňák</LastName>
+  <TitleBefore />
+  <YearOfBirth>1995</YearOfBirth>
+  <KrpId>19230</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>204</Id>
+  <FirstName>Lukáš</FirstName>
+  <LastName>Miklovič</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>25427</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>205</Id>
+  <FirstName>Oliver</FirstName>
+  <LastName>Mikšík</LastName>
+  <TitleBefore />
+  <YearOfBirth>1994</YearOfBirth>
+  <KrpId>19748</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>206</Id>
+  <FirstName>Juraj</FirstName>
+  <LastName>Mikúš</LastName>
+  <TitleBefore />
+  <YearOfBirth>1987</YearOfBirth>
+  <KrpId>9222</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>207</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Mirilovič</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>22255</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>208</Id>
+  <FirstName>Enrico</FirstName>
+  <LastName>Miško</LastName>
+  <TitleBefore />
+  <YearOfBirth>1994</YearOfBirth>
+  <KrpId>20797</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>209</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Môcik</LastName>
+  <TitleBefore />
+  <YearOfBirth>1993</YearOfBirth>
+  <KrpId>19749</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>210</Id>
+  <FirstName>Samuel</FirstName>
+  <LastName>Mojžiš</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>24968</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>211</Id>
+  <FirstName>Matej</FirstName>
+  <LastName>Mrázik</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>23070</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>212</Id>
+  <FirstName>Adam</FirstName>
+  <LastName>Nemčovič</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>23279</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>213</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Papaj</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>24156</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>214</Id>
+  <FirstName>Christián</FirstName>
+  <LastName>Pavlas</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>21285</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>215</Id>
+  <FirstName>Samuel</FirstName>
+  <LastName>Petráš</LastName>
+  <TitleBefore />
+  <YearOfBirth>1995</YearOfBirth>
+  <KrpId>20324</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>216</Id>
+  <FirstName>Matej</FirstName>
+  <LastName>Pokorný</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>23280</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>217</Id>
+  <FirstName>Samuel</FirstName>
+  <LastName>Požgay</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>22615</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>218</Id>
+  <FirstName>Miroslav</FirstName>
+  <LastName>Preisinger</LastName>
+  <TitleBefore />
+  <YearOfBirth>1991</YearOfBirth>
+  <KrpId>16028</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>219</Id>
+  <FirstName>Dušan</FirstName>
+  <LastName>Pribula</LastName>
+  <TitleBefore />
+  <YearOfBirth>1995</YearOfBirth>
+  <KrpId>19731</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>220</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Puš</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>22151</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>221</Id>
+  <FirstName>Teemu Oskari Göran</FirstName>
+  <LastName>Ramstedt</LastName>
+  <TitleBefore />
+  <YearOfBirth>1987</YearOfBirth>
+  <KrpId>36775</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>222</Id>
+  <FirstName>MICHAL</FirstName>
+  <LastName>Řepík</LastName>
+  <TitleBefore />
+  <YearOfBirth>1988</YearOfBirth>
+  <KrpId>36774</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>223</Id>
+  <FirstName>Oliver</FirstName>
+  <LastName>Repko</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>24972</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>224</Id>
+  <FirstName>Roman</FirstName>
+  <LastName>Roháček</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>25027</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>225</Id>
+  <FirstName>Adam</FirstName>
+  <LastName>Ružička</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>22641</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>226</Id>
+  <FirstName>Patrik</FirstName>
+  <LastName>Rybár</LastName>
+  <TitleBefore />
+  <YearOfBirth>1993</YearOfBirth>
+  <KrpId>19967</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>227</Id>
+  <FirstName>Roman</FirstName>
+  <LastName>Sabo</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>25028</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>228</Id>
+  <FirstName>Matej</FirstName>
+  <LastName>Šalka</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>24153</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>229</Id>
+  <FirstName>Peter</FirstName>
+  <LastName>Šandor</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>25032</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>230</Id>
+  <FirstName>Miroslav</FirstName>
+  <LastName>Šatan</LastName>
+  <TitleBefore />
+  <YearOfBirth>1974</YearOfBirth>
+  <KrpId>961</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>231</Id>
+  <FirstName>Michal</FirstName>
+  <LastName>Sersen</LastName>
+  <TitleBefore />
+  <YearOfBirth>1985</YearOfBirth>
+  <KrpId>6534</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>232</Id>
+  <FirstName>Ján</FirstName>
+  <LastName>Ševčík</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>23940</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>233</Id>
+  <FirstName>Eliezer</FirstName>
+  <LastName>Sherbatov</LastName>
+  <TitleBefore />
+  <YearOfBirth>1991</YearOfBirth>
+  <KrpId>36909</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>234</Id>
+  <FirstName>Adam</FirstName>
+  <LastName>Šimonič</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>22619</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>235</Id>
+  <FirstName>Juraj</FirstName>
+  <LastName>Široký</LastName>
+  <TitleBefore>Mgr.</TitleBefore>
+  <YearOfBirth>1979</YearOfBirth>
+  <KrpId>26999</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>236</Id>
+  <FirstName>Pavol</FirstName>
+  <LastName>Skalický</LastName>
+  <TitleBefore />
+  <YearOfBirth>1995</YearOfBirth>
+  <KrpId>20385</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>237</Id>
+  <FirstName>Michal</FirstName>
+  <LastName>Škoda</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>21283</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>238</Id>
+  <FirstName>Ján</FirstName>
+  <LastName>Škrabák</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>23237</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>239</Id>
+  <FirstName>Andrej</FirstName>
+  <LastName>Škultéty</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>24585</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>240</Id>
+  <FirstName>Karol</FirstName>
+  <LastName>Sloboda</LastName>
+  <TitleBefore />
+  <YearOfBirth>1983</YearOfBirth>
+  <KrpId>211</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>241</Id>
+  <FirstName>Marek</FirstName>
+  <LastName>Sloboda</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>21980</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>242</Id>
+  <FirstName>Radek</FirstName>
+  <LastName>Smoleňák</LastName>
+  <TitleBefore />
+  <YearOfBirth>1986</YearOfBirth>
+  <KrpId>33211</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>243</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Štajnoch</LastName>
+  <TitleBefore />
+  <YearOfBirth>1990</YearOfBirth>
+  <KrpId>16303</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>244</Id>
+  <FirstName>Andrej</FirstName>
+  <LastName>Šťastný</LastName>
+  <TitleBefore />
+  <YearOfBirth>1991</YearOfBirth>
+  <KrpId>16676</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>245</Id>
+  <FirstName>Jakub</FirstName>
+  <LastName>Štepánek</LastName>
+  <TitleBefore />
+  <YearOfBirth>1986</YearOfBirth>
+  <KrpId>36773</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>246</Id>
+  <FirstName>Ivan</FirstName>
+  <LastName>Švarný</LastName>
+  <TitleBefore />
+  <YearOfBirth>1984</YearOfBirth>
+  <KrpId>8102</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>247</Id>
+  <FirstName>Tommi Sakari</FirstName>
+  <LastName>Taimi</LastName>
+  <TitleBefore />
+  <YearOfBirth>1990</YearOfBirth>
+  <KrpId>36772</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>248</Id>
+  <FirstName>Filip</FirstName>
+  <LastName>Takáč</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>21120</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>249</Id>
+  <FirstName>Marco</FirstName>
+  <LastName>Tomkovič</LastName>
+  <TitleBefore />
+  <YearOfBirth>2001</YearOfBirth>
+  <KrpId>26108</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>250</Id>
+  <FirstName>Patrik</FirstName>
+  <LastName>Topor</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>25037</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>251</Id>
+  <FirstName>Šimon</FirstName>
+  <LastName>Trnavský</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>22390</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>252</Id>
+  <FirstName>Peter</FirstName>
+  <LastName>Trška</LastName>
+  <TitleBefore />
+  <YearOfBirth>1992</YearOfBirth>
+  <KrpId>12380</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>253</Id>
+  <FirstName>Jakub</FirstName>
+  <LastName>Uram</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>24696</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>254</Id>
+  <FirstName>Andrej</FirstName>
+  <LastName>Vadovič</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>22622</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>255</Id>
+  <FirstName>Igor</FirstName>
+  <LastName>Valko</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>22623</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>256</Id>
+  <FirstName>Alex</FirstName>
+  <LastName>Vavrušek</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>24158</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>257</Id>
+  <FirstName>Kristián</FirstName>
+  <LastName>Včelka</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>25019</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>258</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Vičan</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>23190</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>259</Id>
+  <FirstName>Marek</FirstName>
+  <LastName>Viedenský</LastName>
+  <TitleBefore />
+  <YearOfBirth>1990</YearOfBirth>
+  <KrpId>16287</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>260</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Vitaloš</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>24001</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>261</Id>
+  <FirstName>Dominik</FirstName>
+  <LastName>Vitek</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>23120</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>262</Id>
+  <FirstName>Michal</FirstName>
+  <LastName>Vojvoda</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>24000</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>263</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Voráček</LastName>
+  <TitleBefore />
+  <YearOfBirth>1990</YearOfBirth>
+  <KrpId>36813</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>264</Id>
+  <FirstName>René</FirstName>
+  <LastName>Vydarený</LastName>
+  <TitleBefore />
+  <YearOfBirth>1981</YearOfBirth>
+  <KrpId>4474</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>265</Id>
+  <FirstName>Miloš</FirstName>
+  <LastName>Zajíček</LastName>
+  <TitleBefore />
+  <YearOfBirth>1994</YearOfBirth>
+  <KrpId>20322</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>4</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>266</Id>
+  <FirstName>Jakub</FirstName>
+  <LastName>Babka</LastName>
+  <TitleBefore />
+  <YearOfBirth>1992</YearOfBirth>
+  <KrpId>37141</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>267</Id>
+  <FirstName>Milan</FirstName>
+  <LastName>Bednár</LastName>
+  <TitleBefore />
+  <YearOfBirth>1993</YearOfBirth>
+  <KrpId>18282</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>268</Id>
+  <FirstName>Anton</FirstName>
+  <LastName>Čavrk</LastName>
+  <TitleBefore />
+  <YearOfBirth>1989</YearOfBirth>
+  <KrpId>13956</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>269</Id>
+  <FirstName>Petr</FirstName>
+  <LastName>Chaloupka</LastName>
+  <TitleBefore />
+  <YearOfBirth>1986</YearOfBirth>
+  <KrpId>33625</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>270</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Čičala</LastName>
+  <TitleBefore />
+  <YearOfBirth>1993</YearOfBirth>
+  <KrpId>18786</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>271</Id>
+  <FirstName>Lukáš</FirstName>
+  <LastName>Cingel</LastName>
+  <TitleBefore />
+  <YearOfBirth>1992</YearOfBirth>
+  <KrpId>16998</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>272</Id>
+  <FirstName>Milan</FirstName>
+  <LastName>Drevenák</LastName>
+  <TitleBefore />
+  <YearOfBirth>1985</YearOfBirth>
+  <KrpId>4099</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>273</Id>
+  <FirstName>Ondrej</FirstName>
+  <LastName>Gmitter</LastName>
+  <TitleBefore />
+  <YearOfBirth>1988</YearOfBirth>
+  <KrpId>13421</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>274</Id>
+  <FirstName>Michal</FirstName>
+  <LastName>Grman</LastName>
+  <TitleBefore />
+  <YearOfBirth>1982</YearOfBirth>
+  <KrpId>4865</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>275</Id>
+  <FirstName>Lukáš</FirstName>
+  <LastName>Handlovský</LastName>
+  <TitleBefore />
+  <YearOfBirth>1986</YearOfBirth>
+  <KrpId>9518</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>276</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Harant</LastName>
+  <TitleBefore />
+  <YearOfBirth>1980</YearOfBirth>
+  <KrpId>2768</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>277</Id>
+  <FirstName>Andrej</FirstName>
+  <LastName>Hatala</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>22183</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>278</Id>
+  <FirstName>Marcel</FirstName>
+  <LastName>Holovič</LastName>
+  <TitleBefore />
+  <YearOfBirth>1987</YearOfBirth>
+  <KrpId>12513</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>279</Id>
+  <FirstName>Stanislav</FirstName>
+  <LastName>Horanský</LastName>
+  <TitleBefore />
+  <YearOfBirth>1994</YearOfBirth>
+  <KrpId>19135</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>280</Id>
+  <FirstName>Richard</FirstName>
+  <LastName>Huna</LastName>
+  <TitleBefore />
+  <YearOfBirth>1985</YearOfBirth>
+  <KrpId>7022</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>281</Id>
+  <FirstName>Róbert</FirstName>
+  <LastName>Huna</LastName>
+  <TitleBefore />
+  <YearOfBirth>1985</YearOfBirth>
+  <KrpId>7023</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>282</Id>
+  <FirstName>Peter</FirstName>
+  <LastName>Húževka</LastName>
+  <TitleBefore />
+  <YearOfBirth>1976</YearOfBirth>
+  <KrpId>3197</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>283</Id>
+  <FirstName>Michal</FirstName>
+  <LastName>Juraško</LastName>
+  <TitleBefore />
+  <YearOfBirth>1984</YearOfBirth>
+  <KrpId>530</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>284</Id>
+  <FirstName>Juraj</FirstName>
+  <LastName>Jurík</LastName>
+  <TitleBefore />
+  <YearOfBirth>1989</YearOfBirth>
+  <KrpId>23970</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>285</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Klimenta</LastName>
+  <TitleBefore />
+  <YearOfBirth>1984</YearOfBirth>
+  <KrpId>36960</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>286</Id>
+  <FirstName>Rastislav</FirstName>
+  <LastName>Konečný</LastName>
+  <TitleBefore />
+  <YearOfBirth>1988</YearOfBirth>
+  <KrpId>9956</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>287</Id>
+  <FirstName>Peter</FirstName>
+  <LastName>Kopecký</LastName>
+  <TitleBefore />
+  <YearOfBirth>1989</YearOfBirth>
+  <KrpId>12441</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>288</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Krčula</LastName>
+  <TitleBefore />
+  <YearOfBirth>1988</YearOfBirth>
+  <KrpId>13924</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>289</Id>
+  <FirstName>Stanislav</FirstName>
+  <LastName>Kuchkin</LastName>
+  <TitleBefore />
+  <YearOfBirth>1993</YearOfBirth>
+  <KrpId>36255</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>290</Id>
+  <FirstName>Filip</FirstName>
+  <LastName>Lešťan</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>21473</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>291</Id>
+  <FirstName>Adrián</FirstName>
+  <LastName>Lipovský</LastName>
+  <TitleBefore />
+  <YearOfBirth>1993</YearOfBirth>
+  <KrpId>19139</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>292</Id>
+  <FirstName>Ryan</FirstName>
+  <LastName>Martindale</LastName>
+  <TitleBefore />
+  <YearOfBirth>1991</YearOfBirth>
+  <KrpId>36993</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>293</Id>
+  <FirstName>Jakub</FirstName>
+  <LastName>Meliško</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>20280</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>294</Id>
+  <FirstName>Maroš</FirstName>
+  <LastName>Mikoláš</LastName>
+  <TitleBefore />
+  <YearOfBirth>1995</YearOfBirth>
+  <KrpId>19131</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>295</Id>
+  <FirstName>Peter</FirstName>
+  <LastName>Mikuš</LastName>
+  <TitleBefore />
+  <YearOfBirth>1985</YearOfBirth>
+  <KrpId>7711</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>296</Id>
+  <FirstName>Lukáš</FirstName>
+  <LastName>Piják</LastName>
+  <TitleBefore />
+  <YearOfBirth>1993</YearOfBirth>
+  <KrpId>18789</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>297</Id>
+  <FirstName>Scott</FirstName>
+  <LastName>Pitt</LastName>
+  <TitleBefore />
+  <YearOfBirth>1988</YearOfBirth>
+  <KrpId>36933</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>298</Id>
+  <FirstName>Felix Antoine</FirstName>
+  <LastName>Poulin</LastName>
+  <TitleBefore />
+  <YearOfBirth>1990</YearOfBirth>
+  <KrpId>36934</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>299</Id>
+  <FirstName>Igor</FirstName>
+  <LastName>Rataj</LastName>
+  <TitleBefore />
+  <YearOfBirth>1973</YearOfBirth>
+  <KrpId>822</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>300</Id>
+  <FirstName>Michal</FirstName>
+  <LastName>Roman</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>36959</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>301</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Slovák</LastName>
+  <TitleBefore />
+  <YearOfBirth>1983</YearOfBirth>
+  <KrpId>109</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>302</Id>
+  <FirstName>Václav</FirstName>
+  <LastName>Stupka</LastName>
+  <TitleBefore />
+  <YearOfBirth>1986</YearOfBirth>
+  <KrpId>9277</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>303</Id>
+  <FirstName>Emil</FirstName>
+  <LastName>Švec</LastName>
+  <TitleBefore />
+  <YearOfBirth>1994</YearOfBirth>
+  <KrpId>31786</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>304</Id>
+  <FirstName>Michal</FirstName>
+  <LastName>Švihálek</LastName>
+  <TitleBefore />
+  <YearOfBirth>1993</YearOfBirth>
+  <KrpId>33346</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>305</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Sýkora</LastName>
+  <TitleBefore />
+  <YearOfBirth>1990</YearOfBirth>
+  <KrpId>15522</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>306</Id>
+  <FirstName>Adam</FirstName>
+  <LastName>Tahotný</LastName>
+  <TitleBefore />
+  <YearOfBirth>1994</YearOfBirth>
+  <KrpId>19970</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>307</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Tomek</LastName>
+  <TitleBefore />
+  <YearOfBirth>1988</YearOfBirth>
+  <KrpId>12960</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>308</Id>
+  <FirstName>Matej</FirstName>
+  <LastName>Valášek</LastName>
+  <TitleBefore />
+  <YearOfBirth>1987</YearOfBirth>
+  <KrpId>11886</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>309</Id>
+  <FirstName>Miroslav</FirstName>
+  <LastName>Zaťko</LastName>
+  <TitleBefore />
+  <YearOfBirth>1984</YearOfBirth>
+  <KrpId>6076</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>310</Id>
+  <FirstName>Ondrej</FirstName>
+  <LastName>Zošiak</LastName>
+  <TitleBefore />
+  <YearOfBirth>1990</YearOfBirth>
+  <KrpId>16282</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>1</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>311</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Ambroz</LastName>
+  <TitleBefore />
+  <YearOfBirth>1995</YearOfBirth>
+  <KrpId>20738</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>312</Id>
+  <FirstName>Daniel</FirstName>
+  <LastName>Babka</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>19820</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>313</Id>
+  <FirstName>Matúš</FirstName>
+  <LastName>Babka</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>23393</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>314</Id>
+  <FirstName>Igor</FirstName>
+  <LastName>Baček</LastName>
+  <TitleBefore />
+  <YearOfBirth>1986</YearOfBirth>
+  <KrpId>9377</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>315</Id>
+  <FirstName>Michal</FirstName>
+  <LastName>Beran</LastName>
+  <TitleBefore />
+  <YearOfBirth>1973</YearOfBirth>
+  <KrpId>240</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>316</Id>
+  <FirstName>Vítězslav</FirstName>
+  <LastName>Bílek</LastName>
+  <TitleBefore />
+  <YearOfBirth>1983</YearOfBirth>
+  <KrpId>31184</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>317</Id>
+  <FirstName>Denis</FirstName>
+  <LastName>Brnčal</LastName>
+  <TitleBefore />
+  <YearOfBirth>1995</YearOfBirth>
+  <KrpId>19812</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>318</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Bučko</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>23566</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>319</Id>
+  <FirstName>Radko</FirstName>
+  <LastName>Cíger</LastName>
+  <TitleBefore />
+  <YearOfBirth>1994</YearOfBirth>
+  <KrpId>19207</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>320</Id>
+  <FirstName>Cédric</FirstName>
+  <LastName>Czirjak</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>22909</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>321</Id>
+  <FirstName>Matej</FirstName>
+  <LastName>Dírer</LastName>
+  <TitleBefore />
+  <YearOfBirth>1992</YearOfBirth>
+  <KrpId>17575</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>322</Id>
+  <FirstName>Jan</FirstName>
+  <LastName>Dlouhý</LastName>
+  <TitleBefore />
+  <YearOfBirth>1975</YearOfBirth>
+  <KrpId>18621</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>323</Id>
+  <FirstName>Ilya</FirstName>
+  <LastName>Dokshin</LastName>
+  <TitleBefore />
+  <YearOfBirth>1981</YearOfBirth>
+  <KrpId>33388</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>324</Id>
+  <FirstName>Jakub</FirstName>
+  <LastName>Ďurica</LastName>
+  <TitleBefore />
+  <YearOfBirth>1995</YearOfBirth>
+  <KrpId>19826</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>325</Id>
+  <FirstName>Michal</FirstName>
+  <LastName>Fabian</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>19813</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>326</Id>
+  <FirstName>Dominik</FirstName>
+  <LastName>Fujerík</LastName>
+  <TitleBefore />
+  <YearOfBirth>1993</YearOfBirth>
+  <KrpId>17911</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>327</Id>
+  <FirstName>Rudolf</FirstName>
+  <LastName>Gábriš</LastName>
+  <TitleBefore />
+  <YearOfBirth>1993</YearOfBirth>
+  <KrpId>18981</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>328</Id>
+  <FirstName>Peter</FirstName>
+  <LastName>Galamboš</LastName>
+  <TitleBefore />
+  <YearOfBirth>1989</YearOfBirth>
+  <KrpId>12980</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>329</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Hajník</LastName>
+  <TitleBefore />
+  <YearOfBirth>1995</YearOfBirth>
+  <KrpId>19811</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>330</Id>
+  <FirstName>Antti</FirstName>
+  <LastName>Hölli</LastName>
+  <TitleBefore />
+  <YearOfBirth>1987</YearOfBirth>
+  <KrpId>33593</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>331</Id>
+  <FirstName>Radoslav</FirstName>
+  <LastName>Illo</LastName>
+  <TitleBefore />
+  <YearOfBirth>1990</YearOfBirth>
+  <KrpId>10874</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>332</Id>
+  <FirstName>Dominik</FirstName>
+  <LastName>Kadura</LastName>
+  <TitleBefore />
+  <YearOfBirth>1991</YearOfBirth>
+  <KrpId>16404</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>333</Id>
+  <FirstName>Sergei</FirstName>
+  <LastName>Korostin</LastName>
+  <TitleBefore />
+  <YearOfBirth>1989</YearOfBirth>
+  <KrpId>33638</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>334</Id>
+  <FirstName>Anton</FirstName>
+  <LastName>Kozák</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>24483</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>335</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Kozák</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>22244</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>336</Id>
+  <FirstName>Michal</FirstName>
+  <LastName>Macho</LastName>
+  <TitleBefore />
+  <YearOfBirth>1982</YearOfBirth>
+  <KrpId>5133</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>337</Id>
+  <FirstName>Jaroslav</FirstName>
+  <LastName>Markovič</LastName>
+  <TitleBefore />
+  <YearOfBirth>1985</YearOfBirth>
+  <KrpId>7134</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>338</Id>
+  <FirstName>Marcel</FirstName>
+  <LastName>Maurer</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>21334</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>339</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Minko</LastName>
+  <TitleBefore />
+  <YearOfBirth>1994</YearOfBirth>
+  <KrpId>19201</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>340</Id>
+  <FirstName>Marek</FirstName>
+  <LastName>Moravčík</LastName>
+  <TitleBefore />
+  <YearOfBirth>2000</YearOfBirth>
+  <KrpId>23921</KrpId>
+  <AgeCategory>Midgest</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>341</Id>
+  <FirstName>Samuel</FirstName>
+  <LastName>Mužila</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>23332</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>342</Id>
+  <FirstName>Filip</FirstName>
+  <LastName>Novosedliak</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>23976</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>343</Id>
+  <FirstName>Andrej</FirstName>
+  <LastName>Novotný</LastName>
+  <TitleBefore />
+  <YearOfBirth>1976</YearOfBirth>
+  <KrpId>249</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>344</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Obuch</LastName>
+  <TitleBefore />
+  <YearOfBirth>1991</YearOfBirth>
+  <KrpId>16213</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>345</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Petruška</LastName>
+  <TitleBefore />
+  <YearOfBirth>1986</YearOfBirth>
+  <KrpId>9851</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>346</Id>
+  <FirstName>Daniel</FirstName>
+  <LastName>Pieš</LastName>
+  <TitleBefore />
+  <YearOfBirth>1995</YearOfBirth>
+  <KrpId>21238</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>347</Id>
+  <FirstName>Denis</FirstName>
+  <LastName>Puvák</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>21222</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>348</Id>
+  <FirstName>Anssi</FirstName>
+  <LastName>Rantanen</LastName>
+  <TitleBefore />
+  <YearOfBirth>1982</YearOfBirth>
+  <KrpId>33386</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>349</Id>
+  <FirstName>Ivan</FirstName>
+  <LastName>Reitmayer</LastName>
+  <TitleBefore />
+  <YearOfBirth>1992</YearOfBirth>
+  <KrpId>2798</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>350</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Rovný</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>22965</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>351</Id>
+  <FirstName>Dominik</FirstName>
+  <LastName>Sabó</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>23593</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>352</Id>
+  <FirstName>Juraj</FirstName>
+  <LastName>Šeliga</LastName>
+  <TitleBefore />
+  <YearOfBirth>1994</YearOfBirth>
+  <KrpId>19463</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>353</Id>
+  <FirstName>Denis Viktor</FirstName>
+  <LastName>Škokor</LastName>
+  <TitleBefore />
+  <YearOfBirth>1995</YearOfBirth>
+  <KrpId>19833</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>354</Id>
+  <FirstName>Lukáš</FirstName>
+  <LastName>Sladkovský</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>33384</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>355</Id>
+  <FirstName>Peter</FirstName>
+  <LastName>Smrek</LastName>
+  <TitleBefore />
+  <YearOfBirth>1979</YearOfBirth>
+  <KrpId>312</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>356</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Staněk</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>22441</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>357</Id>
+  <FirstName>Ivan</FirstName>
+  <LastName>Štrbák</LastName>
+  <TitleBefore />
+  <YearOfBirth>1995</YearOfBirth>
+  <KrpId>19283</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>358</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Štuller</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>23525</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>359</Id>
+  <FirstName>Jakub</FirstName>
+  <LastName>Sviatko</LastName>
+  <TitleBefore />
+  <YearOfBirth>1993</YearOfBirth>
+  <KrpId>20039</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>360</Id>
+  <FirstName>Radoslav</FirstName>
+  <LastName>Taraba</LastName>
+  <TitleBefore />
+  <YearOfBirth>2002</YearOfBirth>
+  <KrpId>25389</KrpId>
+  <AgeCategory>Cadet</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>361</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Tavel</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>19829</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>362</Id>
+  <FirstName>Andrej</FirstName>
+  <LastName>Themár</LastName>
+  <TitleBefore />
+  <YearOfBirth>1988</YearOfBirth>
+  <KrpId>12080</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>363</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Tupý</LastName>
+  <TitleBefore />
+  <YearOfBirth>1991</YearOfBirth>
+  <KrpId>16215</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>364</Id>
+  <FirstName>Matej</FirstName>
+  <LastName>Varchola</LastName>
+  <TitleBefore />
+  <YearOfBirth>1995</YearOfBirth>
+  <KrpId>21237</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>365</Id>
+  <FirstName>Ján</FirstName>
+  <LastName>Vladár</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>22962</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>366</Id>
+  <FirstName>Michal</FirstName>
+  <LastName>Žáčik</LastName>
+  <TitleBefore />
+  <YearOfBirth>1994</YearOfBirth>
+  <KrpId>18962</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>367</Id>
+  <FirstName>Michal</FirstName>
+  <LastName>Žingor</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>19822</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>7</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>368</Id>
+  <FirstName>Adam</FirstName>
+  <LastName>Balaj</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>23627</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>369</Id>
+  <FirstName>Juraj</FirstName>
+  <LastName>Bezúch</LastName>
+  <TitleBefore />
+  <YearOfBirth>1993</YearOfBirth>
+  <KrpId>17112</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>370</Id>
+  <FirstName>Lukáš</FirstName>
+  <LastName>Bohunický</LastName>
+  <TitleBefore />
+  <YearOfBirth>1987</YearOfBirth>
+  <KrpId>13383</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>371</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Božík</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>22733</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>372</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Bulík</LastName>
+  <TitleBefore />
+  <YearOfBirth>1985</YearOfBirth>
+  <KrpId>8273</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>373</Id>
+  <FirstName>Viliam</FirstName>
+  <LastName>Čacho</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>23621</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>374</Id>
+  <FirstName>Juraj</FirstName>
+  <LastName>Cebák</LastName>
+  <TitleBefore />
+  <YearOfBirth>1982</YearOfBirth>
+  <KrpId>2080</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>375</Id>
+  <FirstName>Peter</FirstName>
+  <LastName>Čerešňák</LastName>
+  <TitleBefore />
+  <YearOfBirth>1993</YearOfBirth>
+  <KrpId>18283</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>376</Id>
+  <FirstName>Jakub</FirstName>
+  <LastName>Cíger</LastName>
+  <TitleBefore />
+  <YearOfBirth>1991</YearOfBirth>
+  <KrpId>16229</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>377</Id>
+  <FirstName>Radek</FirstName>
+  <LastName>Dlouhý</LastName>
+  <TitleBefore />
+  <YearOfBirth>1982</YearOfBirth>
+  <KrpId>31749</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>378</Id>
+  <FirstName>Lukáš</FirstName>
+  <LastName>Ďurkech</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>21261</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>379</Id>
+  <FirstName>Peter</FirstName>
+  <LastName>Fabuš</LastName>
+  <TitleBefore />
+  <YearOfBirth>1979</YearOfBirth>
+  <KrpId>2415</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>380</Id>
+  <FirstName>Peter</FirstName>
+  <LastName>Frühauf</LastName>
+  <TitleBefore />
+  <YearOfBirth>1982</YearOfBirth>
+  <KrpId>12024</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>381</Id>
+  <FirstName>Jakub</FirstName>
+  <LastName>Gašparovič</LastName>
+  <TitleBefore />
+  <YearOfBirth>1990</YearOfBirth>
+  <KrpId>15126</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>382</Id>
+  <FirstName>Kristián</FirstName>
+  <LastName>Gorž</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>24996</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>383</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Hajský</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>21555</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>384</Id>
+  <FirstName>Matúš</FirstName>
+  <LastName>Halgoš</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>23619</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>385</Id>
+  <FirstName>Marek</FirstName>
+  <LastName>Hecl</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>22395</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>386</Id>
+  <FirstName>Michal</FirstName>
+  <LastName>Hlinka</LastName>
+  <TitleBefore />
+  <YearOfBirth>1993</YearOfBirth>
+  <KrpId>18286</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>387</Id>
+  <FirstName>Matúš</FirstName>
+  <LastName>Holenda</LastName>
+  <TitleBefore />
+  <YearOfBirth>1995</YearOfBirth>
+  <KrpId>20614</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>388</Id>
+  <FirstName>Marcel</FirstName>
+  <LastName>Hossa</LastName>
+  <TitleBefore />
+  <YearOfBirth>1981</YearOfBirth>
+  <KrpId>5182</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>389</Id>
+  <FirstName>Filip</FirstName>
+  <LastName>Husár</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>24457</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>390</Id>
+  <FirstName>Richard</FirstName>
+  <LastName>Jakubec</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>23636</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>391</Id>
+  <FirstName>Nicolas</FirstName>
+  <LastName>Jánoš</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>22735</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>392</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Kalináč</LastName>
+  <TitleBefore>Bc.</TitleBefore>
+  <YearOfBirth>1992</YearOfBirth>
+  <KrpId>17817</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>393</Id>
+  <FirstName>Erik</FirstName>
+  <LastName>Kompas</LastName>
+  <TitleBefore />
+  <YearOfBirth>1995</YearOfBirth>
+  <KrpId>20607</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>394</Id>
+  <FirstName>Jakub</FirstName>
+  <LastName>Kostelný</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>24452</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>395</Id>
+  <FirstName>Lukáš</FirstName>
+  <LastName>Kozák</LastName>
+  <TitleBefore />
+  <YearOfBirth>1991</YearOfBirth>
+  <KrpId>16210</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>396</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Krasničan</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>20179</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>397</Id>
+  <FirstName>Andrej</FirstName>
+  <LastName>Krištofovič</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>22718</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>398</Id>
+  <FirstName>Andrej</FirstName>
+  <LastName>Kukuča</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>24456</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>399</Id>
+  <FirstName>Michal</FirstName>
+  <LastName>Luhový</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>23259</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>400</Id>
+  <FirstName>Richard</FirstName>
+  <LastName>Matejka</LastName>
+  <TitleBefore />
+  <YearOfBirth>1994</YearOfBirth>
+  <KrpId>18245</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>401</Id>
+  <FirstName>Ondrej</FirstName>
+  <LastName>Mikula</LastName>
+  <TitleBefore />
+  <YearOfBirth>1988</YearOfBirth>
+  <KrpId>13000</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>402</Id>
+  <FirstName>Juraj</FirstName>
+  <LastName>Mikuš</LastName>
+  <TitleBefore />
+  <YearOfBirth>1988</YearOfBirth>
+  <KrpId>14194</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>403</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Nechala</LastName>
+  <TitleBefore />
+  <YearOfBirth>1993</YearOfBirth>
+  <KrpId>18301</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>404</Id>
+  <FirstName>Vladimír</FirstName>
+  <LastName>Nemec</LastName>
+  <TitleBefore />
+  <YearOfBirth>1978</YearOfBirth>
+  <KrpId>1061</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>405</Id>
+  <FirstName>Peter</FirstName>
+  <LastName>Novajovský</LastName>
+  <TitleBefore />
+  <YearOfBirth>1989</YearOfBirth>
+  <KrpId>15723</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>406</Id>
+  <FirstName>Peter</FirstName>
+  <LastName>Őlvecký</LastName>
+  <TitleBefore />
+  <YearOfBirth>1985</YearOfBirth>
+  <KrpId>6427</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>407</Id>
+  <FirstName>Marek</FirstName>
+  <LastName>Pač</LastName>
+  <TitleBefore />
+  <YearOfBirth>1992</YearOfBirth>
+  <KrpId>17991</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>408</Id>
+  <FirstName>Dávid</FirstName>
+  <LastName>Páleš</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>22375</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>409</Id>
+  <FirstName>Patrik</FirstName>
+  <LastName>Palovič</LastName>
+  <TitleBefore />
+  <YearOfBirth>1994</YearOfBirth>
+  <KrpId>20616</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>410</Id>
+  <FirstName>Andrej</FirstName>
+  <LastName>Pastorák</LastName>
+  <TitleBefore />
+  <YearOfBirth>1999</YearOfBirth>
+  <KrpId>24455</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>411</Id>
+  <FirstName>Oliver</FirstName>
+  <LastName>Pataky</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>20560</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>412</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Przygodzki</LastName>
+  <TitleBefore />
+  <YearOfBirth>1991</YearOfBirth>
+  <KrpId>17511</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>413</Id>
+  <FirstName>Branko</FirstName>
+  <LastName>Radivojevič</LastName>
+  <TitleBefore />
+  <YearOfBirth>1980</YearOfBirth>
+  <KrpId>5238</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>414</Id>
+  <FirstName>Ladislav</FirstName>
+  <LastName>Romančík</LastName>
+  <TitleBefore />
+  <YearOfBirth>1996</YearOfBirth>
+  <KrpId>20073</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>415</Id>
+  <FirstName>Boris</FirstName>
+  <LastName>Sádecký</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>22149</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>416</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Šagát</LastName>
+  <TitleBefore />
+  <YearOfBirth>1984</YearOfBirth>
+  <KrpId>6406</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>417</Id>
+  <FirstName>Pavol</FirstName>
+  <LastName>Šagát</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>23632</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>418</Id>
+  <FirstName>Simon</FirstName>
+  <LastName>Šefčík</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>21840</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>419</Id>
+  <FirstName>Andrej</FirstName>
+  <LastName>Šiška</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>22722</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>420</Id>
+  <FirstName>Marcel</FirstName>
+  <LastName>Škvarka</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>22394</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>421</Id>
+  <FirstName>David</FirstName>
+  <LastName>Smolka</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>23631</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>422</Id>
+  <FirstName>Erik</FirstName>
+  <LastName>Smolka</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>22391</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>423</Id>
+  <FirstName>Peter</FirstName>
+  <LastName>Sojčík</LastName>
+  <TitleBefore />
+  <YearOfBirth>1986</YearOfBirth>
+  <KrpId>9053</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>424</Id>
+  <FirstName>Tomáš</FirstName>
+  <LastName>Starosta</LastName>
+  <TitleBefore />
+  <YearOfBirth>1981</YearOfBirth>
+  <KrpId>5232</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>425</Id>
+  <FirstName>Jozef</FirstName>
+  <LastName>Stümpel</LastName>
+  <TitleBefore />
+  <YearOfBirth>1972</YearOfBirth>
+  <KrpId>14672</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>426</Id>
+  <FirstName>Miroslav</FirstName>
+  <LastName>Švancara</LastName>
+  <TitleBefore />
+  <YearOfBirth>1998</YearOfBirth>
+  <KrpId>21581</KrpId>
+  <AgeCategory>Junior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>427</Id>
+  <FirstName>Adam</FirstName>
+  <LastName>Themár</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>21230</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>428</Id>
+  <FirstName>Dominik</FirstName>
+  <LastName>Trška</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>7144</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>429</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Trudman</LastName>
+  <TitleBefore />
+  <YearOfBirth>1997</YearOfBirth>
+  <KrpId>22446</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>430</Id>
+  <FirstName>Radoslav</FirstName>
+  <LastName>Tybor</LastName>
+  <TitleBefore />
+  <YearOfBirth>1989</YearOfBirth>
+  <KrpId>12364</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>431</Id>
+  <FirstName>Michal</FirstName>
+  <LastName>Valent</LastName>
+  <TitleBefore />
+  <YearOfBirth>1986</YearOfBirth>
+  <KrpId>9310</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>432</Id>
+  <FirstName>Tibor</FirstName>
+  <LastName>Varga</LastName>
+  <TitleBefore />
+  <YearOfBirth>1985</YearOfBirth>
+  <KrpId>7857</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player><?xml version="1.0"?>
+<Player xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Id>433</Id>
+  <FirstName>Martin</FirstName>
+  <LastName>Vozdecký</LastName>
+  <TitleBefore />
+  <YearOfBirth>1978</YearOfBirth>
+  <KrpId>14646</KrpId>
+  <AgeCategory>Senior</AgeCategory>
+  <ClubId>2</ClubId>
+</Player>

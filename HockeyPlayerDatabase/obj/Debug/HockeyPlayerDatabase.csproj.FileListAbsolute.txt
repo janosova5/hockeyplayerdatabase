@@ -1,0 +1,16 @@
+E:\Skola-moja\HockeyPlayerDatabase\HockeyPlayerDatabase\bin\Debug\HockeyPlayerDatabase.dll.config
+E:\Skola-moja\HockeyPlayerDatabase\HockeyPlayerDatabase\bin\Debug\HockeyPlayerDatabase.dll
+E:\Skola-moja\HockeyPlayerDatabase\HockeyPlayerDatabase\bin\Debug\HockeyPlayerDatabase.pdb
+E:\Skola-moja\HockeyPlayerDatabase\HockeyPlayerDatabase\bin\Debug\EntityFramework.dll
+E:\Skola-moja\HockeyPlayerDatabase\HockeyPlayerDatabase\bin\Debug\EntityFramework.SqlServer.dll
+E:\Skola-moja\HockeyPlayerDatabase\HockeyPlayerDatabase\bin\Debug\HockeyPlayerDatabase.Interfaces.dll
+E:\Skola-moja\HockeyPlayerDatabase\HockeyPlayerDatabase\bin\Debug\EntityFramework.xml
+E:\Skola-moja\HockeyPlayerDatabase\HockeyPlayerDatabase\bin\Debug\EntityFramework.SqlServer.xml
+E:\Skola-moja\HockeyPlayerDatabase\HockeyPlayerDatabase\bin\Debug\HockeyPlayerDatabase.Interfaces.xml
+E:\Skola-moja\HockeyPlayerDatabase\HockeyPlayerDatabase\obj\Debug\HockeyPlayerDatabase.csprojResolveAssemblyReference.cache
+E:\Skola-moja\HockeyPlayerDatabase\HockeyPlayerDatabase\obj\Debug\HockeyPlayerDatabase.Migrations.InitialCreate.resources
+E:\Skola-moja\HockeyPlayerDatabase\HockeyPlayerDatabase\obj\Debug\HockeyPlayerDatabase.Migrations.ClubName.resources
+E:\Skola-moja\HockeyPlayerDatabase\HockeyPlayerDatabase\obj\Debug\HockeyPlayerDatabase.csproj.GenerateResource.Cache
+E:\Skola-moja\HockeyPlayerDatabase\HockeyPlayerDatabase\obj\Debug\HockeyPlayerDatabase.csproj.CoreCompileInputs.cache
+E:\Skola-moja\HockeyPlayerDatabase\HockeyPlayerDatabase\obj\Debug\HockeyPlayerDatabase.dll
+E:\Skola-moja\HockeyPlayerDatabase\HockeyPlayerDatabase\obj\Debug\HockeyPlayerDatabase.pdb

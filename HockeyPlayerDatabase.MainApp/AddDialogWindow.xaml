@@ -1,0 +1,78 @@
+﻿<Window x:Class="HockeyPlayerDatabase.MainApp.AddDialogWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:HockeyPlayerDatabase.MainApp"
+        mc:Ignorable="d"
+        Title="DialogWindow" Height="300" Width="300">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="107*"/>
+            <ColumnDefinition Width="92*"/>
+            <ColumnDefinition Width="93*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="33*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="33*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="35*"/>
+            <RowDefinition Height="40*"/>
+        </Grid.RowDefinitions>
+
+        <Grid Grid.Row="0" Grid.Column="0">
+            <Label>KRP:</Label>
+        </Grid>
+        <Grid Grid.Row="1" Grid.Column="0">
+            <Label>Title before:</Label>
+        </Grid>
+        <Grid Grid.Row="2" Grid.Column="0">
+            <Label>First name:</Label>
+        </Grid>
+        <Grid Grid.Row="3" Grid.Column="0">
+            <Label>Last name:</Label>
+        </Grid>
+        <Grid Grid.Row="4" Grid.Column="0">
+            <Label>Year of birth:</Label>
+        </Grid>
+        <Grid Grid.Row="5" Grid.Column="0">
+            <Label>Age Category:</Label>
+        </Grid>
+        <Grid Grid.Row="6" Grid.Column="0">
+            <Label>Club:</Label>
+        </Grid>
+        <Grid Grid.Row="7" Grid.Column="1">
+            <Button Content="OK" Name="OkButton" Margin="8, 5" Click="OkButtonWasClicked"></Button>
+        </Grid>
+        <Grid Grid.Row="7" Grid.Column="2">
+            <Button Content="Cancel" Margin="8, 5" Click="CancelButtonWasClicked"></Button>
+        </Grid>
+        <Grid Grid.Row="0" Grid.Column="1" Grid.ColumnSpan="2">
+            <TextBox Margin="5" TextChanged="KrpWasTyped"></TextBox>
+        </Grid>
+        <Grid Grid.Row="1" Grid.Column="1" Grid.ColumnSpan="2">
+            <TextBox Margin="5" TextChanged="TitleWasTyped"></TextBox>
+        </Grid>
+        <Grid Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2">
+            <TextBox Margin="5" TextChanged="FirstNameWasTyped"></TextBox>
+        </Grid>
+        <Grid Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="2">
+            <TextBox Margin="5" TextChanged="LastNameWasTyped"></TextBox>
+        </Grid>
+        <Grid Grid.Row="4" Grid.Column="1" Grid.ColumnSpan="2">
+            <TextBox Margin="5" TextChanged="YearWasTyped"></TextBox>
+        </Grid>
+        <Grid Grid.Row="5" Grid.Column="1" Grid.ColumnSpan="2">
+            <ComboBox Name ="CategoryCombobox" Margin="5" SelectionChanged="CategoryWasSelected"  ></ComboBox>
+        </Grid>
+        <Grid Grid.Row="6" Grid.Column="1" Grid.ColumnSpan="2">
+            <ComboBox Name ="ClubCombobox" Margin="5" SelectionChanged ="ClubWasSelected" DisplayMemberPath="Name">
+            </ComboBox>
+        </Grid>
+
+    </Grid>
+
+</Window>
